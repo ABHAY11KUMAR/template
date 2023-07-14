@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+#include<array>
+#include<vector>
+#include<cmath> //square root
+#include<algorithm> //[(max, min )]  *min(v.begin(),v.end())
+int main(){
+
+return 0;
+}
